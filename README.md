@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Osman Talayhan</h1>
 <h3 align="center">I'm improving myself in coding.</h3>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/osmantalayhan/recent-activity/articles/](https://www.linkedin.com/in/osmantalayhan/recent-activity/articles/)
-
 - 📫 How to reach me **tlyhnosman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
