@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osman Talayhan</h1>
 <h3 align="center">I'm improving myself in coding.</h3>
 
-- 📫 How to reach me **tlyhnosman@gmail.com**
+📫 How to reach me **tlyhnosman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
