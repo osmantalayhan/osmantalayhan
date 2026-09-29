@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osman Talayhan</h1>
-<h3 align="center">I'm improving myself in coding.</h3>
+<h3 align="center">I'm improving my engineering skills.</h3>
 
 📫 How to reach me **tlyhnosman@gmail.com**
 
